@@ -11,3 +11,6 @@
 - Django framework
 - Html,css,js,Bootstrap
 - Gmail smtp service
+
+https://user-images.githubusercontent.com/76436755/227444479-86bd1ea4-49ea-41b6-857d-1df9b26dea13.mp4
+## Features shown: Create new account,Add new listing,Forgot password,change password,Search listing,Dashboard etc.
