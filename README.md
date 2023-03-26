@@ -9,6 +9,7 @@
 
 ## Technology used
 - Django framework
+- Postgresql database
 - Html,css,js,Bootstrap
 - Gmail smtp service
 
