@@ -147,7 +147,7 @@ MESSAGE_TAGS ={
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'vedant.k.raval@gmail.com'
-EMAIL_HOST_PASSWORD = 'mtisrmygmnaapsoj'
+EMAIL_HOST_PASSWORD = 'Enter Your generated password'
 EMAIL_USE_TLS = True
 
 
